@@ -1,0 +1,663 @@
+{
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns:media": "http://search.yahoo.com/mrss/",
+    "title": "Uearn-Mobile issues",
+    "link": [
+      {
+        "href": "/wichaya/Uearn-Mobile/issues.atom?scope=all&state=opened",
+        "rel": "self",
+        "type": "application/atom+xml"
+      },
+      {
+        "href": "http://gitavalant/wichaya/Uearn-Mobile/issues",
+        "rel": "alternate",
+        "type": "text/html"
+      }
+    ],
+    "id": "http://gitavalant/wichaya/Uearn-Mobile/issues",
+    "updated": "2017-08-01T11:01:55Z",
+    "entry": [
+      {
+        "id": "http://gitavalant/wichaya/Uearn-Mobile/issues/78",
+        "link": {
+          "href": "http://gitavalant/wichaya/Uearn-Mobile/issues/78"
+        },
+        "title": "Mobile App Android : แสดงชื่อเมนูปฎิบัติธรรมไม่ถูกต้อง",
+        "updated": "2017-08-01T11:01:55Z",
+        "media:thumbnail": {
+          "width": "40",
+          "height": "40",
+          "url": "http://www.gravatar.com/avatar/19b1c2527a187351a03885bfc5a8d476?s=80&d=identicon"
+        },
+        "author": {
+          "name": "puttraporn",
+          "email": "puttraporn.c@avalant.co.th"
+        },
+        "summary": "Mobile App Android : แสดงชื่อเมนูปฎิบัติธรรมไม่ถูกต้อง",
+        "description": "Mobile App Android : แสดงชื่อเมนูปฎิบัติธรรมไม่ถูกต้อง\n\nExpedted :  แสดงชื่อเมนูปฎิบัติธรรม\n\napp version: 0.1.20170731.1027\n\n![2017-08-01_17-51-14](http://192.168.0.23/wichaya/Uearn-Mobile/uploads/45b6b579ef73bbdae07880a8c4e6358a/2017-08-01_17-51-14.jpg)",
+        "labels": {
+          "label": [
+            "Android",
+            "Delivery to test",
+            "Mobile",
+            "Mobile App",
+            "low"
+          ]
+        },
+        "assignee": {
+          "name": "Kerdkaw.S",
+          "email": "kerdkaw.s@avalant.co.th"
+        }
+      },
+      {
+        "id": "http://gitavalant/wichaya/Uearn-Mobile/issues/76",
+        "link": {
+          "href": "http://gitavalant/wichaya/Uearn-Mobile/issues/76"
+        },
+        "title": "กดกระดิ่งขวาบนอ่าน noti กันหน่อยครับ",
+        "updated": "2017-08-01T10:46:13Z",
+        "media:thumbnail": {
+          "width": "40",
+          "height": "40",
+          "url": "http://gitAvalant/uploads/user/avatar/31/avatar.png"
+        },
+        "author": {
+          "name": "Kerdkaw.S",
+          "email": "kerdkaw.s@avalant.co.th"
+        },
+        "summary": "กดกระดิ่งขวาบนอ่าน noti กันหน่อยครับ",
+        "description": "@all ทุก ๆ คนครับ เวลามี noti ที่ขวาบนช่วยกดอ่านกันหน่อยนะครับ ขอบคุณครับ (´・ω・｀)"
+      },
+      {
+        "id": "http://gitavalant/wichaya/Uearn-Mobile/issues/75",
+        "link": {
+          "href": "http://gitavalant/wichaya/Uearn-Mobile/issues/75"
+        },
+        "title": "Mobile App Android : ฟิลด์ในหน้าจอ รายการของฉัน >  หน้ากิจกรรม แสดงฟิลด์ไม่ครบ",
+        "updated": "2017-08-01T10:38:33Z",
+        "media:thumbnail": {
+          "width": "40",
+          "height": "40",
+          "url": "http://www.gravatar.com/avatar/19b1c2527a187351a03885bfc5a8d476?s=80&d=identicon"
+        },
+        "author": {
+          "name": "puttraporn",
+          "email": "puttraporn.c@avalant.co.th"
+        },
+        "summary": "Mobile App Android : ฟิลด์ในหน้าจอ รายการของฉัน >  หน้ากิจกรรม แสดงฟิลด์ไม่ครบ",
+        "description": "app version: 0.1.20170731.1027\n\nMobile App Android : ฟิลด์ในหน้าจอ รายการของฉัน รายละเอียดกิจกรรม แสดงฟิลด์ไม่ครบ\n\nเนื่องจากไม่มี \n\n**ฟิลด์ สถานที่\n\nฟิลด์ อาคาร\n\nฟิลด์ เวลาลงทะเบียน**\n\nDefect   รายการของฉัน รายละเอียดกิจกรรม แสดงฟิลด์ไม่ครบ\n\n\n![2017-08-01_17-51-14](http://192.168.0.23/wichaya/Uearn-Mobile/uploads/5567265cf7652be76060c3c3c41657de/2017-08-01_17-51-14.jpg)\n\n\n\n\n\n**ตัวอย่างบนเว็ป**\n\n![2017-08-01_17-46-28](http://192.168.0.23/wichaya/Uearn-Mobile/uploads/630dcb4a889ccd7799875b7ceffba573/2017-08-01_17-46-28.jpg)",
+        "labels": {
+          "label": [
+            "Medium",
+            "Android",
+            "Group Event",
+            "Issue",
+            "Mobile",
+            "Mobile App"
+          ]
+        },
+        "assignee": {
+          "name": "Kerdkaw.S",
+          "email": "kerdkaw.s@avalant.co.th"
+        }
+      },
+      {
+        "id": "http://gitavalant/wichaya/Uearn-Mobile/issues/74",
+        "link": {
+          "href": "http://gitavalant/wichaya/Uearn-Mobile/issues/74"
+        },
+        "title": "เรื่องโปรโมชั่น เนื่องจากทำการตั้งค่าจากหลังบ้าน มีการแถมสินค้า ในรายการที่ทำ...",
+        "updated": "2017-08-01T10:02:22Z",
+        "media:thumbnail": {
+          "width": "40",
+          "height": "40",
+          "url": "http://www.gravatar.com/avatar/0441b643e70af6b3092d8c9f96ed92ca?s=80&d=identicon"
+        },
+        "author": {
+          "name": "kamonwan",
+          "email": "jjbmz44@gmail.com"
+        },
+        "summary": "เรื่องโปรโมชั่น เนื่องจากทำการตั้งค่าจากหลังบ้าน มีการแถมสินค้า ในรายการที่ทำการสั่งซื้อ เนื่องจากหลังบ้านมีการเปิดใช้งานของโปรโมชั่น แค่ 1 รายการเท่านั้น",
+        "description": "เรื่องโปรโมชั่น เนื่องจากทำการตั้งค่าจากหลังบ้าน มีการแถมสินค้า ในรายการที่ทำการสั่งซื้อ เนื่องจากหลังบ้านมีการเปิดใช้งานของโปรโมชั่น แค่ 1 รายการเท่านั้น \n![image](http://192.168.0.23/wichaya/Uearn-Mobile/uploads/8a97da9159c81a5c5d08dc338a9a0eb0/image.png)\n![image](http://192.168.0.23/wichaya/Uearn-Mobile/uploads/5d9e3737b196607a5b68915f6636da3d/image.png)\n![image](http://192.168.0.23/wichaya/Uearn-Mobile/uploads/7fdaaa6dd2ed4e5e5fe9037152b52b8a/image.png)\n![image](http://192.168.0.23/wichaya/Uearn-Mobile/uploads/6a8977e74a6baa6ee05e8c05f237efdc/image.png)",
+        "labels": {
+          "label": [
+            "Back-End Service",
+            "Fixed",
+            "High",
+            "Issue",
+            "Mobile",
+            "Mobile App",
+            "Product"
+          ]
+        }
+      },
+      {
+        "id": "http://gitavalant/wichaya/Uearn-Mobile/issues/72",
+        "link": {
+          "href": "http://gitavalant/wichaya/Uearn-Mobile/issues/72"
+        },
+        "title": "สถานะไม่ถูกต้องเมื่อสมัครหลักสูตรสำเร็จแล้ว เมื่อสมัครเสร็จแล้วสถานะต้องเป็น ...",
+        "updated": "2017-08-01T09:15:03Z",
+        "media:thumbnail": {
+          "width": "40",
+          "height": "40",
+          "url": "http://www.gravatar.com/avatar/6e0311cc7e49c322ff91e77d8326c2b3?s=80&d=identicon"
+        },
+        "author": {
+          "name": "rukkij.wa",
+          "email": "rukkij.wa@avalant.co.th"
+        },
+        "summary": "สถานะไม่ถูกต้องเมื่อสมัครหลักสูตรสำเร็จแล้ว เมื่อสมัครเสร็จแล้วสถานะต้องเป็น ภาษาไทย",
+        "description": "![Screenshot_2017-08-01-16-10-19](http://192.168.0.23/wichaya/Uearn-Mobile/uploads/f0a1a938fd00fb18d1bf7fb15afefec8/Screenshot_2017-08-01-16-10-19.png)",
+        "labels": {
+          "label": [
+            "Android",
+            "Back-End Service",
+            "Course Event",
+            "ENV DC",
+            "Issue",
+            "Mobile App",
+            "low"
+          ]
+        }
+      },
+      {
+        "id": "http://gitavalant/wichaya/Uearn-Mobile/issues/70",
+        "link": {
+          "href": "http://gitavalant/wichaya/Uearn-Mobile/issues/70"
+        },
+        "title": "สมัครหลักสูตรครอบครัว เข้าสู่รถเข็นไม่สามารถเพิ่มจำนวนคนสมัครได้",
+        "updated": "2017-08-01T08:49:15Z",
+        "media:thumbnail": {
+          "width": "40",
+          "height": "40",
+          "url": "http://www.gravatar.com/avatar/6e0311cc7e49c322ff91e77d8326c2b3?s=80&d=identicon"
+        },
+        "author": {
+          "name": "rukkij.wa",
+          "email": "rukkij.wa@avalant.co.th"
+        },
+        "summary": "สมัครหลักสูตรครอบครัว เข้าสู่รถเข็นไม่สามารถเพิ่มจำนวนคนสมัครได้",
+        "description": "![Screenshot_2017-08-01-15-46-02](http://192.168.0.23/wichaya/Uearn-Mobile/uploads/3eb87a27056f2743a8601661f72ba335/Screenshot_2017-08-01-15-46-02.png)",
+        "labels": {
+          "label": [
+            "Course Event",
+            "ENV DC",
+            "Fixed",
+            "High",
+            "Mobile",
+            "Mobile App",
+            "Scenario"
+          ]
+        },
+        "assignee": {
+          "name": "Tanawat",
+          "email": "tanawat.p@avalant.co.th"
+        }
+      },
+      {
+        "id": "http://gitavalant/wichaya/Uearn-Mobile/issues/69",
+        "link": {
+          "href": "http://gitavalant/wichaya/Uearn-Mobile/issues/69"
+        },
+        "title": "สมัครปฏิบัติธรรม ระบุข้อมูล แล้วกดปุ่มสมัครสมาชิก ระบบแสดง popup Error ไม่สาม...",
+        "updated": "2017-08-01T08:37:29Z",
+        "media:thumbnail": {
+          "width": "40",
+          "height": "40",
+          "url": "http://www.gravatar.com/avatar/6e0311cc7e49c322ff91e77d8326c2b3?s=80&d=identicon"
+        },
+        "author": {
+          "name": "rukkij.wa",
+          "email": "rukkij.wa@avalant.co.th"
+        },
+        "summary": "สมัครปฏิบัติธรรม ระบุข้อมูล แล้วกดปุ่มสมัครสมาชิก ระบบแสดง popup Error ไม่สามารถสมัครปฏิบัติธรรมได้",
+        "description": "![Screenshot_2017-08-01-15-33-15](http://192.168.0.23/wichaya/Uearn-Mobile/uploads/24c69c7e49bc33ac0f34bd8342843604/Screenshot_2017-08-01-15-33-15.png)",
+        "labels": {
+          "label": [
+            "Android",
+            "Course Event",
+            "ENV DC",
+            "Fixed",
+            "Mobile",
+            "Mobile App",
+            "Scenario",
+            "critical"
+          ]
+        },
+        "assignee": {
+          "name": "Tanawat",
+          "email": "tanawat.p@avalant.co.th"
+        }
+      },
+      {
+        "id": "http://gitavalant/wichaya/Uearn-Mobile/issues/68",
+        "link": {
+          "href": "http://gitavalant/wichaya/Uearn-Mobile/issues/68"
+        },
+        "title": "หน้าข้อมูลติดต่อ กดปุ่มถัดไปแล้วไม่ตอบสนอง",
+        "updated": "2017-08-01T08:28:24Z",
+        "media:thumbnail": {
+          "width": "40",
+          "height": "40",
+          "url": "http://www.gravatar.com/avatar/519ab7b413ce0dae7a12cdebe7db31f0?s=80&d=identicon"
+        },
+        "author": {
+          "name": "jaratphong",
+          "email": "jaratphong.so@avalant.co.th"
+        },
+        "summary": "หน้าข้อมูลติดต่อ กดปุ่มถัดไปแล้วไม่ตอบสนอง",
+        "description": "App.Version: 0.1.20170731.1027\n\n![132](http://192.168.0.23/wichaya/Uearn-Mobile/uploads/dc96780abc2e62f2174f741f2149b6d1/132.JPG)",
+        "labels": {
+          "label": [
+            "Android",
+            "Mobile",
+            "Mobile App",
+            "Registration",
+            "To Do",
+            "critical"
+          ]
+        },
+        "assignee": {
+          "name": "Tanawat",
+          "email": "tanawat.p@avalant.co.th"
+        }
+      },
+      {
+        "id": "http://gitavalant/wichaya/Uearn-Mobile/issues/67",
+        "link": {
+          "href": "http://gitavalant/wichaya/Uearn-Mobile/issues/67"
+        },
+        "title": "ในหน้าสิทธิพิเศษ เมื่อทำการลบ Privilege ทำการลบข้อมูลออก ในหน้าสิทธิพิเศษ จะต...",
+        "updated": "2017-08-01T08:19:44Z",
+        "media:thumbnail": {
+          "width": "40",
+          "height": "40",
+          "url": "http://www.gravatar.com/avatar/0441b643e70af6b3092d8c9f96ed92ca?s=80&d=identicon"
+        },
+        "author": {
+          "name": "kamonwan",
+          "email": "jjbmz44@gmail.com"
+        },
+        "summary": "ในหน้าสิทธิพิเศษ เมื่อทำการลบ Privilege ทำการลบข้อมูลออก ในหน้าสิทธิพิเศษ จะต้องเป็นแบบเด๋วกะหน้าเว็บไซต์ ดูตามรูปภาพ",
+        "description": "![image](http://192.168.0.23/wichaya/Uearn-Mobile/uploads/4af56912dafef5e825fecf59a66c7fb8/image.png)\n![image](http://192.168.0.23/wichaya/Uearn-Mobile/uploads/d73996dd2c63c5a4c9b5a46cd957812a/image.png)",
+        "labels": {
+          "label": [
+            "High",
+            "Mobile",
+            "Mobile App",
+            "Privilege",
+            "To Do",
+            "iOS App"
+          ]
+        },
+        "assignee": {
+          "name": "Tanawat",
+          "email": "tanawat.p@avalant.co.th"
+        }
+      },
+      {
+        "id": "http://gitavalant/wichaya/Uearn-Mobile/issues/64",
+        "link": {
+          "href": "http://gitavalant/wichaya/Uearn-Mobile/issues/64"
+        },
+        "title": "หน้า product card ส่วนลดพิเศษสมาชิกมา ไม่มีการดึงค่ามาแสดง",
+        "updated": "2017-08-01T08:16:30Z",
+        "media:thumbnail": {
+          "width": "40",
+          "height": "40",
+          "url": "http://www.gravatar.com/avatar/0441b643e70af6b3092d8c9f96ed92ca?s=80&d=identicon"
+        },
+        "author": {
+          "name": "kamonwan",
+          "email": "jjbmz44@gmail.com"
+        },
+        "summary": "หน้า product card ส่วนลดพิเศษสมาชิกมา ไม่มีการดึงค่ามาแสดง",
+        "description": "หน้า product card ระบบยังไม่ทำการดึงส่วนลดพิเศษสมาชิกมา เป็นบ้าง Product ที่ดึงส่วนลดสมาชิกมาแสดง ที่จริงต้องสามารถรถได้ทั้งหมดไม่ว่าจะซื้อ Product อะไร\n![image](http://192.168.0.23/wichaya/Uearn-Mobile/uploads/23e40400b43f03012160334deecaaa94/image.png)\n![image](http://192.168.0.23/wichaya/Uearn-Mobile/uploads/0a04c19f58b406729338a23f3978f6bf/image.png)",
+        "labels": {
+          "label": [
+            "High",
+            "Mobile",
+            "Mobile App",
+            "Product",
+            "Scenario",
+            "To Do",
+            "iOS App"
+          ]
+        },
+        "assignee": {
+          "name": "Tanawat",
+          "email": "tanawat.p@avalant.co.th"
+        }
+      },
+      {
+        "id": "http://gitavalant/wichaya/Uearn-Mobile/issues/63",
+        "link": {
+          "href": "http://gitavalant/wichaya/Uearn-Mobile/issues/63"
+        },
+        "title": "หน้าข้อมูลส่วนตัว ไม่มี Icon แสดงขั้นตอนการกรอกข้อมูล",
+        "updated": "2017-08-01T08:15:40Z",
+        "media:thumbnail": {
+          "width": "40",
+          "height": "40",
+          "url": "http://www.gravatar.com/avatar/519ab7b413ce0dae7a12cdebe7db31f0?s=80&d=identicon"
+        },
+        "author": {
+          "name": "jaratphong",
+          "email": "jaratphong.so@avalant.co.th"
+        },
+        "summary": "หน้าข้อมูลส่วนตัว ไม่มี Icon แสดงขั้นตอนการกรอกข้อมูล",
+        "description": "App.Version: 0.1.20170731.1027\n\n![130](http://192.168.0.23/wichaya/Uearn-Mobile/uploads/f679b858e0dda44fa1af06bf841d00b0/130.JPG)\n\nCSD\n\n![131](http://192.168.0.23/wichaya/Uearn-Mobile/uploads/9e2f201f3e7dd5a87a7e0c6a0b307f1a/131.JPG)",
+        "labels": {
+          "label": [
+            "Android",
+            "Design",
+            "Issue",
+            "Mobile",
+            "Mobile App",
+            "Registration",
+            "low"
+          ]
+        },
+        "assignee": {
+          "name": "arthit.l",
+          "email": "arthit.l@avalant.co.th"
+        }
+      },
+      {
+        "id": "http://gitavalant/wichaya/Uearn-Mobile/issues/62",
+        "link": {
+          "href": "http://gitavalant/wichaya/Uearn-Mobile/issues/62"
+        },
+        "title": "Mobile App Android : หน้าหลักสูตร แสดงปุ่มไม่ถูกต้อง",
+        "updated": "2017-08-01T08:08:06Z",
+        "media:thumbnail": {
+          "width": "40",
+          "height": "40",
+          "url": "http://www.gravatar.com/avatar/19b1c2527a187351a03885bfc5a8d476?s=80&d=identicon"
+        },
+        "author": {
+          "name": "puttraporn",
+          "email": "puttraporn.c@avalant.co.th"
+        },
+        "summary": "Mobile App Android : หน้าหลักสูตร แสดงปุ่มไม่ถูกต้อง",
+        "description": "app version: 0.1.20170731.1027\n\nMobile App Android : หน้าหลักสูตร แสดงปุ่มไม่ถูกต้อง\n\nต้องแสดงป่ม  ลงทะเบียน  เป็น ปุ่ม สมัคร\n\n![2017-08-01_14-28-10](http://192.168.0.23/wichaya/Uearn-Mobile/uploads/b39187b3e057893ddc5669b59666e73e/2017-08-01_14-28-10.jpg)",
+        "labels": {
+          "label": [
+            "Medium",
+            "Android",
+            "Course Event",
+            "Fixed",
+            "Mobile",
+            "Mobile App"
+          ]
+        },
+        "assignee": {
+          "name": "Tanawat",
+          "email": "tanawat.p@avalant.co.th"
+        }
+      },
+      {
+        "id": "http://gitavalant/wichaya/Uearn-Mobile/issues/61",
+        "link": {
+          "href": "http://gitavalant/wichaya/Uearn-Mobile/issues/61"
+        },
+        "title": "Mobile App Android : หลังกรอกกรอกข้อมูลที่อยู่แล้วไม่สามารถทำการายการต่อได้",
+        "updated": "2017-08-01T08:01:18Z",
+        "media:thumbnail": {
+          "width": "40",
+          "height": "40",
+          "url": "http://www.gravatar.com/avatar/19b1c2527a187351a03885bfc5a8d476?s=80&d=identicon"
+        },
+        "author": {
+          "name": "puttraporn",
+          "email": "puttraporn.c@avalant.co.th"
+        },
+        "summary": "Mobile App Android : หลังกรอกกรอกข้อมูลที่อยู่แล้วไม่สามารถทำการายการต่อได้",
+        "description": "app version: 0.1.20170731.1027\n\n1.เข้าแอยุวพุทธ\n\n2. เข้าเมนูปฏิบัติธรรม\n\n3.เลือปฏิบัติธรรม ที่ต้องการ\n\n4.บริจาค\n\n5.กรอกที่อยู่\n\nDefecr  :หลังกรอกกรอกข้อมูลที่อยู่แล้วไม่สามารถทำการายการต่อได้\n\n\n ![2017-08-01_14-49-34](http://192.168.0.23/wichaya/Uearn-Mobile/uploads/e2c44010565ecc499cad091c55ed029b/2017-08-01_14-49-34.jpg)",
+        "labels": {
+          "label": [
+            "Android",
+            "Course Event",
+            "Fixed",
+            "High",
+            "Mobile",
+            "Mobile App"
+          ]
+        },
+        "assignee": {
+          "name": "Tanawat",
+          "email": "tanawat.p@avalant.co.th"
+        }
+      },
+      {
+        "id": "http://gitavalant/wichaya/Uearn-Mobile/issues/60",
+        "link": {
+          "href": "http://gitavalant/wichaya/Uearn-Mobile/issues/60"
+        },
+        "title": "หน้าลงชื่อเข้าใช้ ไม่มีปุ่มลืมรหัสผ่าน",
+        "updated": "2017-08-01T06:54:48Z",
+        "media:thumbnail": {
+          "width": "40",
+          "height": "40",
+          "url": "http://www.gravatar.com/avatar/519ab7b413ce0dae7a12cdebe7db31f0?s=80&d=identicon"
+        },
+        "author": {
+          "name": "jaratphong",
+          "email": "jaratphong.so@avalant.co.th"
+        },
+        "summary": "หน้าลงชื่อเข้าใช้ ไม่มีปุ่มลืมรหัสผ่าน",
+        "description": "App.Version: 0.1.20170731.1027\n\n![129](http://192.168.0.23/wichaya/Uearn-Mobile/uploads/c2dcde6303f480d0dbad41c898e03973/129.JPG)",
+        "labels": {
+          "label": [
+            "Android",
+            "Issue",
+            "Mobile",
+            "Registration",
+            "critical"
+          ]
+        }
+      },
+      {
+        "id": "http://gitavalant/wichaya/Uearn-Mobile/issues/59",
+        "link": {
+          "href": "http://gitavalant/wichaya/Uearn-Mobile/issues/59"
+        },
+        "title": "เมื่อทำการสมัครปฏิบัติธรรมแบบ Login เมื่อกดปุ่มสมัครสมาชิก ระบบแสดงข้อคามแจ้ง...",
+        "updated": "2017-08-01T06:52:02Z",
+        "media:thumbnail": {
+          "width": "40",
+          "height": "40",
+          "url": "http://www.gravatar.com/avatar/6e0311cc7e49c322ff91e77d8326c2b3?s=80&d=identicon"
+        },
+        "author": {
+          "name": "rukkij.wa",
+          "email": "rukkij.wa@avalant.co.th"
+        },
+        "summary": "เมื่อทำการสมัครปฏิบัติธรรมแบบ Login เมื่อกดปุ่มสมัครสมาชิก ระบบแสดงข้อคามแจ้งเตือน ระบุข้อมูลฟิลด์ต่างๆไม่ครบ กรณี Login เข้าสู่ระบบ ต้องมาการดึงข้อมูลมาจาก ข้อมูลส่วนตัวทั้งหมด เช็คในข้อมูลส่วนตัวแล้วว่ามีข้อมูลที่เป็น Mandatory field ทุกฟิลด์",
+        "description": "![Screenshot_2017-08-01-13-44-54](http://192.168.0.23/wichaya/Uearn-Mobile/uploads/274ae0c1ca77f9b318ad4ee9a67cd65f/Screenshot_2017-08-01-13-44-54.png)",
+        "labels": {
+          "label": [
+            "Android",
+            "Course Event",
+            "ENV DC",
+            "Fixed",
+            "High",
+            "Mobile App",
+            "Scenario",
+            "To Do"
+          ]
+        },
+        "assignee": {
+          "name": "Tanawat",
+          "email": "tanawat.p@avalant.co.th"
+        }
+      },
+      {
+        "id": "http://gitavalant/wichaya/Uearn-Mobile/issues/58",
+        "link": {
+          "href": "http://gitavalant/wichaya/Uearn-Mobile/issues/58"
+        },
+        "title": "หน้าเปลี่ยนรหัสผ่าน กรอกรหัสผ่านเดิมผิดและ กรอกฟิลด์รหัสผ่านใหม่ ไม่ตรงกับ ฟิ...",
+        "updated": "2017-08-01T06:44:43Z",
+        "media:thumbnail": {
+          "width": "40",
+          "height": "40",
+          "url": "http://www.gravatar.com/avatar/519ab7b413ce0dae7a12cdebe7db31f0?s=80&d=identicon"
+        },
+        "author": {
+          "name": "jaratphong",
+          "email": "jaratphong.so@avalant.co.th"
+        },
+        "summary": "หน้าเปลี่ยนรหัสผ่าน กรอกรหัสผ่านเดิมผิดและ กรอกฟิลด์รหัสผ่านใหม่ ไม่ตรงกับ ฟิลด์ยืนยันรหัสผ่านใหม่ กดปุ่มตกลง ไม่มีการตอบสนอง",
+        "description": "App.Version: 0.1.20170731.1027\n\n![128](http://192.168.0.23/wichaya/Uearn-Mobile/uploads/a7b078dcff243a6f6093a0eed5ac7535/128.JPG)",
+        "labels": {
+          "label": [
+            "Medium",
+            "Android",
+            "Fixed",
+            "Mobile",
+            "Mobile App",
+            "Registration",
+            "To Do"
+          ]
+        },
+        "assignee": {
+          "name": "Tanawat",
+          "email": "tanawat.p@avalant.co.th"
+        }
+      },
+      {
+        "id": "http://gitavalant/wichaya/Uearn-Mobile/issues/57",
+        "link": {
+          "href": "http://gitavalant/wichaya/Uearn-Mobile/issues/57"
+        },
+        "title": "หน้าเปลี่ยนรหัสผ่าน กรอกข้อมูลครบและถูกต้อง เมื่อกดบันทึก ระบบบอกว่าข้อมูลไม่...",
+        "updated": "2017-08-01T06:35:28Z",
+        "media:thumbnail": {
+          "width": "40",
+          "height": "40",
+          "url": "http://www.gravatar.com/avatar/519ab7b413ce0dae7a12cdebe7db31f0?s=80&d=identicon"
+        },
+        "author": {
+          "name": "jaratphong",
+          "email": "jaratphong.so@avalant.co.th"
+        },
+        "summary": "หน้าเปลี่ยนรหัสผ่าน กรอกข้อมูลครบและถูกต้อง เมื่อกดบันทึก ระบบบอกว่าข้อมูลไม่ถูกต้อง",
+        "description": "App.Version: 0.1.20170731.1027\n\n![127](http://192.168.0.23/wichaya/Uearn-Mobile/uploads/519722c3d2eb4fa2dac1e9e41e598058/127.JPG)",
+        "labels": {
+          "label": [
+            "Medium",
+            "Android",
+            "Fixed",
+            "Mobile",
+            "Mobile App",
+            "Registration",
+            "To Do"
+          ]
+        },
+        "assignee": {
+          "name": "Tanawat",
+          "email": "tanawat.p@avalant.co.th"
+        }
+      },
+      {
+        "id": "http://gitavalant/wichaya/Uearn-Mobile/issues/56",
+        "link": {
+          "href": "http://gitavalant/wichaya/Uearn-Mobile/issues/56"
+        },
+        "title": "สมัครปฏิบัติธรรม กรณีไม่ได้ login ไม่สามารถระบุ Email ได้",
+        "updated": "2017-08-01T06:22:34Z",
+        "media:thumbnail": {
+          "width": "40",
+          "height": "40",
+          "url": "http://www.gravatar.com/avatar/6e0311cc7e49c322ff91e77d8326c2b3?s=80&d=identicon"
+        },
+        "author": {
+          "name": "rukkij.wa",
+          "email": "rukkij.wa@avalant.co.th"
+        },
+        "summary": "สมัครปฏิบัติธรรม กรณีไม่ได้ login ไม่สามารถระบุ Email ได้",
+        "description": "![Screenshot_2017-08-01-11-58-05](http://192.168.0.23/wichaya/Uearn-Mobile/uploads/b3e0b02886c489e4b3f1a72d4c0363ef/Screenshot_2017-08-01-11-58-05.png)",
+        "labels": {
+          "label": [
+            "Android",
+            "Course Event",
+            "ENV DC",
+            "Mobile App",
+            "Scenario",
+            "To Do",
+            "critical"
+          ]
+        },
+        "assignee": {
+          "name": "Kerdkaw.S",
+          "email": "kerdkaw.s@avalant.co.th"
+        }
+      },
+      {
+        "id": "http://gitavalant/wichaya/Uearn-Mobile/issues/55",
+        "link": {
+          "href": "http://gitavalant/wichaya/Uearn-Mobile/issues/55"
+        },
+        "title": "Mobile App iOS :เมนู My Order กรณีกรอกข้อมูลไม่ครบทุกฟิลด์ ต้องมีการแจ้งเตือน...",
+        "updated": "2017-08-01T05:19:34Z",
+        "media:thumbnail": {
+          "width": "40",
+          "height": "40",
+          "url": "http://www.gravatar.com/avatar/19b1c2527a187351a03885bfc5a8d476?s=80&d=identicon"
+        },
+        "author": {
+          "name": "puttraporn",
+          "email": "puttraporn.c@avalant.co.th"
+        },
+        "summary": "Mobile App iOS :เมนู My Order กรณีกรอกข้อมูลไม่ครบทุกฟิลด์ ต้องมีการแจ้งเตือนให้กรอกฟิลด์ให้ครบ  [ไม่ควร Disble ปุ่ม] บันทึก",
+        "description": "app version: 0.1.20170731.1027\n\n1. เข้าสู่ App ยุวพุทธิ\n\n2. Login เข้าสู่ระบบ\n\n3. กดไอคอนขนมชั้น\n\n4. กด เลือกเมนู My Order \n\n5. กดปุ่มแจ้งชำระเงิน\n\n6. กรอกข้อมูลไม่ครบทุกฟิลด์\n\n7. ตรวจสอบปุ่มบันทึก\n\n\nเมนู My Order กรณีกรอกข้อมูลไม่ครบทุกฟิลด์ ต้องมีการแจ้งเตือนให้กรอกฟิลด์ให้ครบ  [ไม่ควร Disble ปุ่ม]\n \n![2017-08-01_11-00-52](http://192.168.0.23/wichaya/Uearn-Mobile/uploads/1d9dfb62f858cc370d086ad414b34a70/2017-08-01_11-00-52.jpg)",
+        "labels": {
+          "label": [
+            "Medium",
+            "Fixed",
+            "Mobile",
+            "Mobile App",
+            "Privilege",
+            "Product",
+            "iOS App"
+          ]
+        },
+        "assignee": {
+          "name": "Kerdkaw.S",
+          "email": "kerdkaw.s@avalant.co.th"
+        }
+      },
+      {
+        "id": "http://gitavalant/wichaya/Uearn-Mobile/issues/54",
+        "link": {
+          "href": "http://gitavalant/wichaya/Uearn-Mobile/issues/54"
+        },
+        "title": "หน้า  Privilege ไม่สามารถดึงข้อมูล รายการบัตร มาแสดงได้ เมื่อทำการเพิ่มข้อมูล...",
+        "updated": "2017-08-01T05:16:37Z",
+        "media:thumbnail": {
+          "width": "40",
+          "height": "40",
+          "url": "http://www.gravatar.com/avatar/0441b643e70af6b3092d8c9f96ed92ca?s=80&d=identicon"
+        },
+        "author": {
+          "name": "kamonwan",
+          "email": "jjbmz44@gmail.com"
+        },
+        "summary": "หน้า  Privilege ไม่สามารถดึงข้อมูล รายการบัตร มาแสดงได้ เมื่อทำการเพิ่มข้อมูลจากหลังบ้าน",
+        "description": "![Screenshot_20170801-115312](http://192.168.0.23/wichaya/Uearn-Mobile/uploads/1b34a24d2a612f06bc8d65f80122adb8/Screenshot_20170801-115312.png)\n![image](http://192.168.0.23/wichaya/Uearn-Mobile/uploads/789d2b1d59cf63782d0e29698e81dcdc/image.png)",
+        "labels": {
+          "label": [
+            "Android",
+            "Mobile",
+            "Mobile App",
+            "STOPPER",
+            "Scenario"
+          ]
+        }
+      }
+    ]
+  }
+}
